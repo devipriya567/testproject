@@ -1,3 +1,3 @@
 print("Hello world");
-print("git tutorial")
-print("cloning")
+print("git tutorial");
+print("cloning");
